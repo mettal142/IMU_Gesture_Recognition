@@ -20,7 +20,6 @@ FilePath='D:\OneDrive - Sejong University/Code/'
 Date='_201111'
 USER='_01'
 glove = Forte_CreateDataGloveIO(0)# right:0 left:1
-#plt.figure(figsize=(12,4))           
 
 class GloveControl:
     
